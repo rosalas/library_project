@@ -2,7 +2,7 @@ name: Automated Library Pipeline
 
 on:
     pull_request:
-        branches: [ main, development ]
+        branches: [ main, feature ]
     push:
         branches: [ main ]
 
