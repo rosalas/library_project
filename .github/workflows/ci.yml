@@ -2,9 +2,9 @@ name: Automated Library Pipeline
 
 on:
     pull_request:
-        branches: [ main, feature ]
+        branches: [ master, feature ]
     push:
-        branches: [ main ]
+        branches: [ master ]
 
 jobs:
     quality-check:
