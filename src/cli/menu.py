@@ -34,7 +34,7 @@ class CLIApp:
         console.clear()
         menu_text = dedent("""
             [bold cyan][1][/bold cyan] Search & ingest works by subject (sync vs async benchmark)
-            [bold cyan][2][/bold cyan] Search books (regex normalization)
+            [bold cyan][2][/bold cyan] Search books by author, title, or subject (regex normalization)
             [bold cyan][3][/bold cyan] Process & deduplicate local catalog file (streamed ingestion)
             [bold cyan][4][/bold cyan] Generate analytical reports (Excel dashboard, CSV, JSON)
             [bold cyan][5][/bold cyan] System health & database maintenance

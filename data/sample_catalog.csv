@@ -1,0 +1,13 @@
+work_id,title,first_publish_year,author_key,subject_tags,isbn
+OL100001W,  pYthOn!!  aUtOmAtIoN & wOrKflOws  ,2021,OL100A,"Programming, Automation, Python",978-3-16-148410-0
+OL100001W,  pYthOn!!  aUtOmAtIoN & wOrKflOws  ,2021,OL100A,"Programming, Automation, Python",978-3-16-148410-0
+OL100002W,  cLeAn  cOdE:  a  hAnDbOoK  oF  agILe  ,2008,OL101A,"Software Engineering, Best Practices",0321125215
+OL100003W,thE  pRaGmAtIc  pRoGrAmMeR  ,1999,OL102A,"Software Architecture, Career",978-0201616224
+OL100004W,   aDvAnCeD   pYtHoN   dEsIgN   pAtTeRnS   ,2018,OL100A,,978-1-491-91279-9
+OL100005W,   lEgAcY   sYsTeMs   aNd   dEbt   ,invalid_year,OL103A,"Computers, History",
+OL100006W,   fUtUrE   oF   aRtIfIcIaL   iNtElLiGeNcE   ,2025,OL104A,"Artificial Intelligence, Robotics",978-0134685991
+OL100007W,  dAtA  sCiEnCe  fRoM  scRaTcH  ,2019,OL105A,"Data Science, Python, Machine Learning",9781491957660
+OL100008W,   iNtRoDuCtIoN   tO   aLgOrIthMs   ,2009,OL106A,"Algorithms, Computer Science",0262033844
+OL100008W,   iNtRoDuCtIoN   tO   aLgOrIthMs   ,2009,OL106A,"Algorithms, Computer Science",0262033844
+OL100009W,  uNiCoDe & sPeCiAl cHaRs: Câfé & Niño!! ,2022,OL100A,"Encoding, Python",978-0-596-52068-7
+OL100010W,   uNcAtEgOrIzEd   wOrK   ,,OL107A,,

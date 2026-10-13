@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "generated_at": "2026-10-13T15:46:38.771983+00:00",
+    "generator": "OLICAS ReportGenerator v1.0"
+  },
+  "summary_data": {
+    "total_works": 40,
+    "total_authors": 32,
+    "top_author": {
+      "author_key": "OL100A",
+      "total_works": 3,
+      "earliest_year": 2018.0,
+      "latest_year": 2022.0
+    }
+  }
+}

@@ -1,0 +1,41 @@
+work_id,title,first_publish_year,author_key,subject_tags,created_at,publication_decade
+OL2784125W,Learning Python,1999,OL411267A,"Python (Langage de programmation), Python (linguagem de programação), Python (Computer program language), Python (Lenguaje de programación de computadores), Langage à objets",2026-10-13 14:41:04,1990s
+OL2784127W,Python,1998,OL411267A,"Python (Computer program language), Python (Langage de programmation), COMPUTERS, Programming Languages, Python",2026-10-13 14:41:04,1990s
+OL16976951W,Think Python,2009,OL6815485A,"Computer programming, Software architecture, Python (Computer program language), COMPUTERS / Programming Languages / C#, COMPUTERS / Programming Languages / Pascal",2026-10-13 14:41:04,2000s
+OL2784126W,Programming Python,1996,OL411267A,"Python (Computer program language), Qa76.73.p98 l88 2001, Qa 76.73 p98 l875 2001, Python, Object oriented",2026-10-13 14:41:04,1990s
+OL21349037W,Introduction To Python For Science And Engineering,2018,OL4194836A,"Python (computer program language), Engineering, data processing, Science, data processing, Python (Computer program language), Computer programming",2026-10-13 14:41:04,2010s
+OL17795703W,Python For Bioinformatics,2009,OL3871440A,"Bioinformatics, Python (computer program language), Python (Computer program language), Computational Biology, Bio-informatique",2026-10-13 14:41:04,2000s
+OL15664278W,Head First Python,2010,OL6867889A,"Programming languages (electronic computers), Python (Computer program language), Python (Langage de programmation), COMPUTERS, Programming Languages",2026-10-13 14:41:04,2010s
+OL15667639W,Mining The Social Web,2011,OL6887918A,"Social networking, Online social networks, Artificial intelligence, Data mining, Electronic data processing, distributed processing",2026-10-13 14:41:04,2010s
+OL17422847W,Python For Data Analysis,2012,OL7309633A,"Programming languages (Electronic computers), Python (Computer program language), Data mining, Python (Langage de programmation), Exploration de données (Informatique)",2026-10-13 14:41:04,2010s
+OL17192141W,Automate The Boring Stuff With Python,2015,OL7244458A,"Python (Computer program language), Computer programming, Programming Languages, COMPUTERS, General",2026-10-13 14:41:04,2010s
+OL6045694W,Python In A Nutshell,2002,OL1521655A,"Python (Computer program language), Python (programmeertaal), Scripting languages (Computer science), Python (Langage de programmation), COMPUTERS",2026-10-13 14:41:04,2000s
+OL16223034W,Think Stats,2011,OL6815485A,"Statistics, Study and teaching, Computer programs, MATHEMATICS / Probability & Statistics / General, Statistics / Computer programs",2026-10-13 14:41:04,2010s
+OL23330617W,Making Music With Computers,2013,OL3853673A,"Computer composition, Python (Computer program language), COMPUTERS / Programming Languages / General, COMPUTERS / Programming / Algorithms, MATHEMATICS / General",2026-10-13 14:41:04,2010s
+OL19543188W,Python For Everyone,2013,OL25278A,"Python (Computer program language), Python (computer program language), Python",2026-10-13 14:41:04,2010s
+OL14873289W,Python Cookbook,2002,OL1521655A,"Python (Computer program language), Python, Javascript, General, Games",2026-10-13 14:41:04,2000s
+OL2102616W,Economic Trends,2000,OL259932A,Economy,2026-10-13 15:44:23,2000s
+OL16814568W,Le Capital Au Xxie Siecle,2013,OL466123A,"Capitalism, wealth, capital, inequality, social welfare",2026-10-13 15:44:23,2010s
+OL1088554W,In Praise Of Idleness And Other Essays,1935,OL112912A,"sociology, philosophy, economy, politics, architecture",2026-10-13 15:44:23,1930s
+OL3956145W,Die Verfassung Der Allmende,1990,OL722147A,"Case studies, Commons, Social choice, Long Now Manual for Civilization, Nachhaltigkeit",2026-10-13 15:44:23,1990s
+OL5450225W,Caliban And The Witch,2004,OL1283561A,"History, Economic conditions, Witch hunting, Social conditions, Women",2026-10-13 15:44:23,2000s
+OL17192959W,Revolution At Point Zero,2012,OL1283561A,"Housework, Reproduction, Feminist Struggle, Social aspects, Capitalism",2026-10-13 15:44:23,2010s
+OL495649W,The Age Of Extremes,1994,OL32997A,"Modern History, World history, communism, history, economy",2026-10-13 15:44:23,1990s
+OL3172951W,State Of The World,1985,OL158239A,"Economic policy, Economic conditions, Economic history, ECONOMICS, ECONOMY",2026-10-13 15:44:23,1980s
+OL162023W,Duncombes Free Banking,1841,OL2123356A,"Banks and banking, Currency question, Economy",2026-10-13 15:44:23,1840s
+OL4963205W,The Magic Of Getting What You Want,1983,OL1071215A,"Conduct of life, Success in business, Personality, Self-development, the american dream",2026-10-13 15:44:23,1980s
+OL5158441W,Okonomie Und Klassenstruktur Des Deutschen Faschismus,1973,OL1143170A,"Social conditions, Fascism, Economic conditions, Economic aspects, Economic aspects of National socialism",2026-10-13 15:44:23,1970s
+OL21060808W,"Women, Work, And Globalization",2013,OL7955380A,"Women, employment, Globalization, Women, economic conditions, Women, social conditions, Women",2026-10-13 15:44:23,2010s
+OL8005105W,The Undercover Economist,2005,OL5372765A,"Economy, Undercover Economist, Tim Harford, Economics, Consumer education",2026-10-13 15:44:23,2000s
+OL1484939W,Eco-Economy,2001,OL158239A,"Environmental economics, Environmental responsibility, Environmental policy, economic aspects, Sustainable development, energy",2026-10-13 15:44:23,2000s
+OL4123148W,The Magna Carta Manifesto,2008,OL773995A,"Constitutional history, Civil rights, Magna Carta, Magna carta, Political rights",2026-10-13 15:44:23,2000s
+OL100001W,Python Automation Workflows,2021,OL100A,"Programming, Automation, Python",2026-10-13 15:46:31,2020s
+OL100002W,Clean Code: A Handbook Of Agile,2008,OL101A,"Software Engineering, Best Practices",2026-10-13 15:46:31,2000s
+OL100003W,The Pragmatic Programmer,1999,OL102A,"Software Architecture, Career",2026-10-13 15:46:31,1990s
+OL100004W,Advanced Python Design Patterns,2018,OL100A,,2026-10-13 15:46:31,2010s
+OL100005W,Legacy Systems And Debt,0,OL103A,"Computers, History",2026-10-13 15:46:31,Unknown
+OL100006W,Future Of Artificial Intelligence,2025,OL104A,"Artificial Intelligence, Robotics",2026-10-13 15:46:31,2020s
+OL100007W,Data Science From Scratch,2019,OL105A,"Data Science, Python, Machine Learning",2026-10-13 15:46:31,2010s
+OL100008W,Introduction To Algorithms,2009,OL106A,"Algorithms, Computer Science",2026-10-13 15:46:31,2000s
+OL100009W,Unicode Special Chars: Cafe Nino,2022,OL100A,"Encoding, Python",2026-10-13 15:46:31,2020s
+OL100010W,Uncategorized Work,0,OL107A,,2026-10-13 15:46:31,Unknown
