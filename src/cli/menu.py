@@ -55,7 +55,7 @@ class CLIApp:
             self.display_main_menu()
             choice = Prompt.ask(
                 "\n[bold yellow]Select an option[/bold yellow]",
-                choices=["0", "1", "2", "3", "4", "5", "6"],
+                choices=["1", "2", "3", "4", "5", "6", "0"],
                 default="0",
             )
 

@@ -108,7 +108,7 @@ class ReportGenerator:
         )
 
         # Title block
-        ws["A1"] = "OLICAS Catalog Key Performance Indicators"
+        ws["A1"] = "Library Catalog Key Performance Indicators"
         ws["A1"].font = title_font
 
         # KPI table headers
